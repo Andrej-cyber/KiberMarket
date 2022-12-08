@@ -1,0 +1,35 @@
+.root {
+    background-color: rgb(208, 208, 175);
+    color: rgb(22, 34, 19);
+    max-width: 1440px;
+    min-width: 320px;
+    font-family: "inter", sans-serif;
+    margin: 0 auto;
+    padding: 24px 48px 24px;
+}
+
+.header {
+    max-width: 984px;
+}
+
+.header__logo {
+    width: 150px;
+    height: 150px;
+    background-color: burlywood;
+}
+
+.menu__container {
+    list-style: none;
+    padding: 0;
+}
+
+.menu__link {
+    text-decoration: none;
+    font-size: 28px;
+    color: rgb(74, 125, 59);
+    transition: opacity 0.3s linear;
+}
+
+.menu__link:hover {
+    opacity: 0.3;
+}
