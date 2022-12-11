@@ -1,0 +1,10 @@
+.profile__column-link {
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+  }
+  

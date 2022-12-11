@@ -1,0 +1,15 @@
+.element__icon-bin {
+    background-image: url(../../../images/Trash.svg);
+    width: 18px;
+    height: 19px;
+    margin: 0px;
+    padding: 0;
+    color: #ffffff;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    transition: opacity 0.3s ease;
+}
+.element__icon-bin:hover {
+    opacity: 0.6;
+}

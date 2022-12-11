@@ -1,0 +1,16 @@
+.profile__social-icon {
+    width: 40px;
+    height: 40px;
+    background-color: #1f1f1f;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 0;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+  }
+  .profile__social-icon:hover {
+    opacity: 0.5;
+  }
+  
